@@ -1,0 +1,9 @@
+# Site settings
+title: Coursera-test
+author:
+  name: Surabordin
+  email: surabordin@windowslive.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
