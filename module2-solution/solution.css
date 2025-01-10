@@ -69,14 +69,14 @@
   }  
 
   @media (max-width: 767px) {
-    .col-sm-1{
+    .col-sm-12{
       float: left;
       border: 1px solid black;
       margin: 1.5%;
       position: relative;
       padding: 5px;
     }
-    .col-sm-1 {
+    .col-sm-12 {
       width: 95%;
     }
   }  
