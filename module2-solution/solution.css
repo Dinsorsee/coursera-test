@@ -11,10 +11,6 @@
   h2 {
     font-size: 125%;
   }
-
-  div.col-lg-4.col-md-6{
-    box-sizing: border-box;
-  }
   
   p {
     display: block;
@@ -52,10 +48,10 @@
       margin: 1%;
       position: relative;
       padding: 5px;
-      box-sizing: border-box;
     }
     .col-lg-4 {
       width: 30%;
+    }
   }
   
   /********** Medium devices only **********/
