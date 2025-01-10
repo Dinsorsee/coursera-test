@@ -17,6 +17,12 @@
     font-family: Helvetica;
     color: white;
   }
+
+  .title {
+    position: absolute;
+    top: 70px;
+    left: 700px;
+  }
   
   /* Simple Responsive Framework. */
   .row {
